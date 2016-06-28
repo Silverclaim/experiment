@@ -1,1 +1,1 @@
-console.log("Norris wa baka");
+console.log("Norris wa baka!!!");
